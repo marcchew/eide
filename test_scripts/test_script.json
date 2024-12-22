@@ -1,0 +1,10 @@
+{
+    "message": "Hello, World!",
+    "success": true,
+    "data": {
+        "numbers": [1, 2, 3, 4, 5],
+        "nested": {
+            "key": "value"
+        }
+    }
+}

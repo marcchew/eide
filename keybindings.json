@@ -1,0 +1,12 @@
+{
+    "New": "Ctrl+N",
+    "Open File": "Ctrl+O",
+    "Open Folder": "Ctrl+Shift+O",
+    "Save": "Ctrl+S",
+    "Run": "F5",
+    "Configure Run Ways": null,
+    "Go to Line": "Ctrl+G",
+    "Find": "Ctrl+F",
+    "Replace": "Ctrl+H",
+    "Edit Keybinds": null
+}
